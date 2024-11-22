@@ -2,7 +2,7 @@
   <div class="login-container">
     <div class="wrapper">
       <div class="title">
-        <span>Acceso a CineClub</span>
+        <span>Acceso a Lista de Peliculas</span>
       </div>
       <form action="#">
         <div class="row">
